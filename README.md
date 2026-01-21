@@ -31,7 +31,7 @@ A simple, easy-to-read menu for all banking actions. Here I chose option 1.
 
 ### 3. Account Transactions
 
-Perform deposits and withdrawals with instant confirmation. Options 3 and 4.
+Perform deposits and withdrawals with instant confirmation. Options 2 and 3.
 
 <img width="302" height="165" alt="3" src="https://github.com/user-attachments/assets/9a596a7c-cf65-42b4-9f16-096dae0ae9eb" />
 
