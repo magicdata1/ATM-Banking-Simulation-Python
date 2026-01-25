@@ -48,4 +48,10 @@ Users can safely terminate their session, ensuring their data remains protected.
 ### Prerequisites
 
 * Python 3.x installed on your machine. Or Google Colab
+  
+---
+
+### If you find this project useful or insightful, feel free to ⭐ star the repository!
+
+
 
